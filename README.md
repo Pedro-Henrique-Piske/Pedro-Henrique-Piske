@@ -22,7 +22,7 @@ Aqui você vai encontrar:
 
 - LinkedIn: https://www.linkedin.com/in/pedro-piske-aa4601285/
 - E-mail: pedrohpiske20@gmail.com
-- Portfólio (se tiver): Não disponível ainda
+- Portfólio: Não disponível ainda
 
 ---
 

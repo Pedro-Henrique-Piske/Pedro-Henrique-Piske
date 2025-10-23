@@ -21,7 +21,7 @@ Aqui você vai encontrar:
 ## 📫 Como me encontrar
 
 - LinkedIn: https://www.linkedin.com/in/pedro-piske-aa4601285/
-- E-mail: pedrohpiske20@gmail.com
+- E-mail: pedrohpiske19@gmail.com
 - Portfólio: Não disponível ainda
 
 ---

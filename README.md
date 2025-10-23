@@ -1,6 +1,6 @@
 # 👨‍💻 Bem-vindo ao meu GitHub!
 
-Olá! Meu nome é Pedro e atualmente sou estudante de **Engenharia de Software** no **Biopark Educação**. Este repositório (e meu perfil como um todo) é o espaço onde compartilho projetos, estudos, desafios e aprendizados ao longo da minha jornada como desenvolvedor.
+Olá! Meu nome é Pedro e atualmente sou estudante de **Engenharia de Software** na **Faculdade Donaduzzi**. Este repositório (e meu perfil como um todo) é o espaço onde compartilho projetos, estudos, desafios e aprendizados ao longo da minha jornada como desenvolvedor.
 
 ## 🚀 Sobre Mim
 

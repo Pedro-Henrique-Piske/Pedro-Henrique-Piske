@@ -61,7 +61,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h1 align="left">Technologies</h1>
 

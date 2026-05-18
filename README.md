@@ -8,7 +8,10 @@
 
 <br clear="both">
 
-<img align="right" height="180" src="[https://i.postimg.cc/639hGPTY/6212485181ca055f760855d98d3ee4bc.gif](https://i.postimg.cc/mDLYqmzx/b394183b64cadefc6f3464b8c08b690a.jpg)"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+</div>
+
 
 ###
 

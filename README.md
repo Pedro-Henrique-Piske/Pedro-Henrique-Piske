@@ -28,8 +28,6 @@
 
 <br clear="both">
 
-<img align="left" height="180" src="https://i.postimg.cc/tC3hq03T/0f5df52b353114cf8d7bd0e26473c80c.gif"  />
-
 ###
 
 <h1 align="right">Social Media</h1>

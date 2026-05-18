@@ -1,31 +1,128 @@
-# 👨‍💻 Bem-vindo ao meu GitHub!
+<br clear="both">
 
-Olá! Meu nome é Pedro e atualmente sou estudante de **Engenharia de Software** na **Faculdade Donaduzzi**. Este repositório (e meu perfil como um todo) é o espaço onde compartilho projetos, estudos, desafios e aprendizados ao longo da minha jornada como desenvolvedor.
+<div align="center">
+  <img height="220" src="https://i.postimg.cc/FKXmyyjP/Frame-1-(2).png"  />
+</div>
 
-## 🚀 Sobre Mim
+###
 
-- 🎓 Estudante de Engenharia de Software no Biopark
-- 💡 Apaixonado por tecnologia, inovação e resolução de problemas
-- 🔧 Explorando áreas como desenvolvimento web, interfaces gráficas, banco de dados e engenharia de requisitos
-- 🌱 Atualmente aprendendo mais sobre C.
+<br clear="both">
 
-## 📁 Repositórios em Destaque
+<img align="right" height="180" src="https://i.postimg.cc/639hGPTY/6212485181ca055f760855d98d3ee4bc.gif"  />
 
-Aqui você vai encontrar:
+###
 
-- Projetos acadêmicos
-- Trabalhos práticos de disciplinas
-- Estudos independentes
-- Colaborações em equipe
+<h1 align="left">About me</h1>
 
-## 📫 Como me encontrar
+###
 
-- LinkedIn: https://www.linkedin.com/in/pedro-piske-aa4601285/
-- E-mail: pedrohpiske19@gmail.com
-- Portfólio: Não disponível ainda
+<p align="left">Sou estudante de Engenharia de Software no Biopark e tenho grande interesse por tecnologia, inovação e resolução de problemas. Busco constantemente desenvolver minhas habilidades em áreas como desenvolvimento web, interfaces gráficas, banco de dados e engenharia de requisitos, sempre unindo aprendizado teórico e prática no desenvolvimento de soluções. Atualmente, estou aprofundando meus conhecimentos na linguagem C, fortalecendo minha base em programação e engenharia de software.</p>
 
----
+###
 
-> “Aprender a programar é como aprender uma nova linguagem: você se comunica com o mundo de uma forma completamente nova.”
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+</div>
 
-Obrigado por visitar meu perfil! 🚀
+###
+
+<br clear="both">
+
+<img align="left" height="180" src="https://i.postimg.cc/tC3hq03T/0f5df52b353114cf8d7bd0e26473c80c.gif"  />
+
+###
+
+<h1 align="right">Social Media</h1>
+
+###
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/pedro-henrique-piske-aa4601285?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <a href="https://youtube.com/@pedrohp1912?si=Lvhutn2Qoslp0715" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/pedro.hen_?igsh=a29lZDF6Y3dka3hi&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://open.spotify.com/user/31xfqr7cpti4cib36r2ya7fpgf4q?si=dGvcCQb3TMO2CRkNHZevOA" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=ffffff&labelColor=&style=for-the-badge" height="40" alt="spotify logo"  />
+  </a>
+  <a href="https://www.twitch.tv/pedrohp_of" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo"  />
+  </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h1 align="left">Technologies</h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+</div>
+
+###
+
+<h1 align="left">Statistics</h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pedro-Henrique-Piske/Pedro-Henrique-Piske/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro-Henrique-Piske/Pedro-Henrique-Piske/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-Henrique-Piske/Pedro-Henrique-Piske/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pedro-Henrique-Piske/Pedro-Henrique-Piske/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+###

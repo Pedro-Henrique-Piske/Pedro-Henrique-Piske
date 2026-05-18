@@ -8,10 +8,7 @@
 
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
-</div>
-
+<img align="right" height="200" src="https://i.postimg.cc/639hGPTY/6212485181ca055f760855d98d3ee4bc.gif"  />
 
 ###
 
@@ -122,10 +119,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro-Henrique-Piske/Pedro-Henrique-Piske/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-Henrique-Piske/Pedro-Henrique-Piske/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pedro-Henrique-Piske/Pedro-Henrique-Piske/pacman-output/galaga-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Pedro-Henrique-Piske/Pedro-Henrique-Piske/snake-output/snake.svg" alt="Snake animation" />
 
 ###
